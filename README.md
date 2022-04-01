@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 --->estoy aprendiendo Spring java y linux
 --->busco colaborar en proyectos java, javaFx. 
 --->busco ayuda con respecto a Spring
---->pueden dejar dudas relacionadas con java y javaFC
+--->pueden dejar dudas relacionadas con java y javaFx
 --->email: sebasacuasssssrio@gmail.com con la etiqueta [git git!]
 --->optitudes, opt, optt, michky, pueden referirse a mi con ese nombre, y de pronombre("el")
 --->me gusta enfrentar retos a nivel de lógica y solución de problemas, soy creativo y me agradan los
