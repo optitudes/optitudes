@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
---->Actualmente me encuentro estudiando ing de sistemas(V semestre)
+--->Actualmente me encuentro estudiando ing de sistemas(VI semestre)
 --->estoy aprendiendo Spring java y linux
 --->busco colaborar en proyectos java, javaFx. 
 --->busco ayuda con respecto a Spring
