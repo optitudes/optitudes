@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-**optitudes/optitudes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**optitudes/optitudes**
 
-Here are some ideas to get you started:
+
 
 - 🔭 Actualmente me encuentro trabajando como junior backend con laravel
 - 🌱 Actualmente me encuentro estudiando ing de sistemas(VII semestre) ...
