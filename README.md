@@ -5,8 +5,8 @@
 
 
 
-- 🔭 Actualmente me encuentro trabajando como junior backend con laravel y react-native para movil
-- 🌱 Actualmente me encuentro estudiando ing de sistemas(V semestre) ...
+- 🔭 Actualmente me encuentro trabajando como  backend con laravel y react-native para movil
+- 🌱 Actualmente me encuentro estudiando ing de sistemas(séptimo semestre) ...
 - 👯 Busco colaborar en proyectos laravel, Spring, docker, react-native ...
 - 💬 pueden dejar dudas relacionadas con backend
 - 📫 email: optt.itudes@gmail.com con la etiqueta [git git!]
