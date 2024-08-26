@@ -5,7 +5,7 @@
 
 
 
-- 🔭 Actualmente me encuentro trabajando como  backend con laravel(un año de experiencia), springBoot(un año de experiencia) y react-native(7 meses de experiencia) para movil
+- 🔭 Actualmente me encuentro trabajando como  backend con laravel, springBoot y react-native para movil
 - 🌱 Actualmente me encuentro estudiando ing de sistemas ...
 - 👯 Busco colaborar en proyectos laravel, Spring, docker ...
 - 💬 pueden dejar dudas relacionadas con backend
