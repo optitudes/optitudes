@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 About Me  
-I’m a passionate **backend developer** with 3+ years of experience building scalable and efficient applications using **Laravel** and **Spring Boot**. I have strong expertise in **Linux system administration** (LPIC-1 certified) and enjoy deploying enterprise solutions in **cloud environments (AWS, OVH, VPS)**.  
+I’m a passionate **backend developer** with 4+ years of experience building scalable and efficient applications using **Laravel** and **Spring Boot**. I have strong expertise in **Linux system administration** (LPIC-1 certified) and enjoy deploying enterprise solutions in **cloud environments (AWS, OVH, VPS)**.  
 
 - 🔭 Currently working as a **Semi-Senior Developer** at QSOFTING, leading backend/frontend tasks with **Laravel + Nuxt3**, managing AWS infrastructure, and mentoring junior devs.  
 - 🌱 Expanding my knowledge by learning **Go**.  
